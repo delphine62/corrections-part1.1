@@ -1,0 +1,36 @@
+td{
+  border: 1px solid black;
+}
+
+table{
+  border-collapse: collapse;
+}
+
+td{
+  border-color: pink;
+}
+
+  table{
+    border-collapse: collapse;
+  }
+
+  .tridiv {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+   }
+
+.tridiv1{
+  background-image: url("../img/background1.png");
+  background-repeat: repeat;
+}
+
+.tridiv2{
+  background-image: url("../img/background2.png");
+  background-position: center;
+}
+
+.tridiv3{
+  background-image: url("../img/background3.png");
+  background: right bottom;
+}
